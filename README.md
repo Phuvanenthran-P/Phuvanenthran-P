@@ -18,8 +18,8 @@ Python developer from Coimbatore, India, focused on backend and full-stack web d
 
 ## 🚀 Featured Projects
 
-- **[markmypage](https://markmypage.web.app/)**: 
-- **[inklinechat](https://inkline-chat.web.app/)**: 
+- **[MarkMyPage](https://markmypage.web.app/)** 
+- **[Inkline Chat](https://inkline-chat.web.app/)** 
 
 ## 📚 Currently
 
